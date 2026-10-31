@@ -1,0 +1,6 @@
+{
+  "name": "AttendEase - Real-Time Attendance Tracker",
+  "description": "Real-time attendance tracking with check-in kiosk, QR badge generator, live admin dashboard, roster management, analytics, and direct export to Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
